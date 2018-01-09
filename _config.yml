@@ -11,25 +11,23 @@ style: styles-2
 #style: styles-6
 
 #Profile information
-name: Dr Davide Valeriani
-tagline: Post-doctoral Researcher
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+name: Davide Valeriani
+tagline: Postdoctoral Researcher
+pic: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Computer engineer with a PhD in Brain-Computer Interfaces, working on machine learning applied to 
+neuroscience to augment human decision-making. Postdoctoral researcher at the University of Essex (UK) with
+experience in teaching, machine-learning consultancy in industry, and co-founder of EyeWink Ltd.'
 
 #sidebar links
 email: me@davidevaleriani.it
 phone: (+)44 01206 872478
-website: davidevaleriani.it #do not add http://
+website: davidevaleriani.it
 linkedin: davidevaleriani
 github: davidevaleriani
 twitter: '@davidevaleriani'
-#Update all the sections by editing the files inside _data folder.
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-55902637-3
 
 # Build settings
 encoding: "utf-8"
