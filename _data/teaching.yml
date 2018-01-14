@@ -1,0 +1,26 @@
+- teaching:
+  title: Lecturer
+  company: School of Computer Science and Electronic Engineering - University of Essex
+  time: Oct 2017 - Dec 2017
+  details: "Preparing and giving lectures, preparing exams, preparing and marking coursework of module 
+  CE320 'Large Scale Software Systems and Extreme Programming'."
+- teaching:
+  title: Graduate Laboratory Assistant
+  company: School of Computer Science and Electronic Engineering - University of Essex
+  time: Oct 2013 - Mar 2016
+  details: |
+  "Holding lab activities and marking assignments in the following modules:<br>
+  CE320 Large Scale Software Systems and Extreme Programming (3 years)<br>
+  CE881 Mobile and Social Applications Programming (2 years)<br>
+  CE101 Professional Development (2 years)<br>
+  CE204 Data Structures and Algorithms (2 years)<br>
+  MA101 Applied Mathematics (1 year)<br>
+  CE151 Introduction to Programming (1 year)."
+  teaching:
+  title: Laboratory Assistant
+  company: Department of Information Engineering - University of Parma
+  time: Jan 2012 - Dec 2012
+  details: |
+  "Holding lab activities in the following modules:<br>
+  Computer Architectures<br>
+  C++ Programming."
