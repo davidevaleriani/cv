@@ -11,21 +11,17 @@
         {% else %}
         <h3 class="job-title right-condensed">{{ pub.title }}</h3>
         {% endif %}
-        <div class="time-left">{{ pub.time }}</div>
+        <div class="time-left">{{ pub.time }}
+        {% if pub.pdf %}
+        <br><a href="{{ pub.pdf }}"><i class="fa fa-ownload"></i></a>
+        {% endif %}
+        </div>
       </div><!--//upper-row-->
 
       <div class="company right-condensed">{{ pub.journal }}</div>
 
     </div><!--//meta-->
 
-    {% if pub.pdf %}
-    <div class="right-condensed">
-      <p>
-      <strong><a href="{{ pub.pdf }}">PDF</a></strong>
-      </p>
-    </div>
-    {% endif %}
-    
   </div><!--//item-->
 {% endfor %}
 
