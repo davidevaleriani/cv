@@ -6,15 +6,15 @@
   <div class="item">
     <div class="meta">
       <div class="upper-row">
-        <h3 class="job-title">{{ pub.title }}</h3>
-        <div class="time">{{ pub.time }}</div>
+        <h3 class="job-title-right">{{ pub.title }}</h3>
+        <div class="time-left">{{ pub.time }}</div>
       </div><!--//upper-row-->
 
       <div class="company">{{ teach.journal }}</div>
 
     </div><!--//meta-->
 
-    {% if pub.doi == true or pub.pdf == true %}
+    {% if pub.doi or pub.pdf %}
     <div class="details">
       {% if pub.doi %}
       <p><a href="http://dx.doi.org/{{ pub.doi }}">Online</a></p>
