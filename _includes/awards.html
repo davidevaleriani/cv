@@ -1,0 +1,19 @@
+{% if site.data.awards %}
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-trophy"></i>Awards</h2>
+
+{% for award in site.data.awards %}
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ award.title }}</h3>
+        <div class="time">{{ award.time }}</div>
+      </div><!--//upper-row-->
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}
