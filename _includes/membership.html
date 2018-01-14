@@ -1,0 +1,19 @@
+{% if site.data.memberships %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">Memberships</h2>
+
+    <ul class="list-unstyled interests-list">
+      {% for membership in site.data.memberships %}
+
+      {% if membership.link %}
+        <li><a href="{{ membership.link }}">{{ membership.item }}</a></li>
+      {% else %}
+        <li>{{ membership.item }}</li>
+      {% endif %}
+
+      {% endfor %}
+    </ul>
+
+</div><!--//interests-->
+{% endif %}

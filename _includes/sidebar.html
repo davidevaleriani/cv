@@ -27,7 +27,7 @@
            {% endif %}
 
            {% if site.website %}
-           <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">{{site.website}}</a></li>
+           <li class="website"><i class="fa fa-globe"></i><a href="https://{{site.website}}" target="_blank">{{site.website}}</a></li>
            {% endif %}
 
            {% if site.linkedin %}
@@ -35,7 +35,7 @@
            {% endif %}
 
            {% if site.github %}
-           <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a></li>
+           <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">Github</a></li>
            {% endif %}
 
            {% if site.twitter %}
@@ -47,7 +47,7 @@
            {% endif %}
            
            {% if site.orcid %}
-           <li class="orcid"><i class="fa fa-user"></i><a href="https://orcid.org/{{site.orcid}}" target="_blank">{{site.orcid}}</a></li>
+           <li class="orcid"><i class="fa fa-user"></i><a href="https://orcid.org/{{site.orcid}}" target="_blank">ORCID {{site.orcid}}</a></li>
            {% endif %}
 
        </ul>
@@ -55,5 +55,6 @@
 
   {% include language.html %}
   {% include interests.html %}
+  {% include membership.html %}
 
 </div><!--//sidebar-wrapper-->

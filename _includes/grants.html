@@ -1,0 +1,27 @@
+{% if site.data.grants %}
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-usd"></i>Research Grants</h2>
+
+{% for grant in site.data.grants %}
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ grant.title }}</h3>
+        <div class="time">{{ grant.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ grant.role }}</div>
+
+    </div><!--//meta-->
+
+    {% if grant.details %}
+    <div class="details">
+      <p>{{ grant.details }}</p>
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}
