@@ -238,6 +238,9 @@ p {
   margin-left: 15%;
   font-weight: 400;
 }
+.right {
+  margin-left: 15%;
+}
 .main-wrapper .company {
   margin-bottom: 10px;
   color: #97AAC3;
