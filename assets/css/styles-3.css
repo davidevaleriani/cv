@@ -245,6 +245,9 @@ p {
 .left {
   margin-right: 25%;
 }
+.left-condensed {
+  margin-right: 10%;
+}
 .main-wrapper .company {
   margin-bottom: 10px;
   color: #97AAC3;
