@@ -7,19 +7,19 @@
     <div class="meta">
       <div class="upper-row">
         {% if pub.doi %}
-        <h3 class="job-title right"><a href="http://dx.doi.org/{{ pub.doi }}" target="blank">{{ pub.title }}</a></h3>
+        <h3 class="job-title right-condensed"><a href="http://dx.doi.org/{{ pub.doi }}" target="blank">{{ pub.title }}</a></h3>
         {% else %}
-        <h3 class="job-title right">{{ pub.title }}</h3>
+        <h3 class="job-title right-condensed">{{ pub.title }}</h3>
         {% endif %}
         <div class="time-left">{{ pub.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company right">{{ pub.journal }}</div>
+      <div class="company right-condensed">{{ pub.journal }}</div>
 
     </div><!--//meta-->
 
     {% if pub.pdf %}
-    <div class="right">
+    <div class="right-condensed">
       <p>
       <strong><a href="{{ pub.pdf }}">PDF</a></strong>
       </p>
