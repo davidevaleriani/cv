@@ -1,0 +1,35 @@
+- publication:
+  title: Group Augmentation in Realistic Visual-Search Decisions via a Hybrid Brain-Computer Interface
+  authors: Davide Valeriani, Caterina Cinel, Riccardo Poli
+  journal: "Scientific Reports 7(7772): 1-12."
+  time: 2017
+  doi: 10.1038/s41598-017-08265-7
+  pdf: https://www.nature.com/articles/s41598-017-08265-7.pdf
+- publication:
+  title: A Collaborative BCI Trained to Aid Group Decisions in a Visual Search Task Works Well with Similar Tasks
+  authors: Davide Valeriani, Caterina Cinel, Riccardo Poli
+  journal: "1st Neuroadaptive Technology Conference (NAT'17) - Berlin, Germany."
+  time: 2017
+  doi: 
+  pdf: http://www.davidevaleriani.it/pub/NAT2017.pdf
+- publication:
+  title: Augmenting Group Performance in Target-Face Recognition via Collaborative Brain-Computer Interfaces for Surveillance Applications
+  authors: Davide Valeriani, Caterina Cinel, Riccardo Poli
+  journal: "8th International IEEE EMBS Neural Engineering Conference (NER) - Shanghai, China."
+  time: 2017
+  doi: 10.1109/NER.2017.8008378
+  pdf: http://www.davidevaleriani.it/pub/NER2017.pdf
+- publication:
+  title: Hybrid Collaborative Brain-Computer Interfaces to Augment Group Decision Making
+  authors: Davide Valeriani, Caterina Cinel, Riccardo Poli
+  journal: "Neuroergonomics: The Brain at Work and in Everyday Life, H. Ayaz and F. Dehais, Eds. Elsevier."
+  time: 2017
+  doi:
+  pdf:
+- publication:
+  title: Past and Future of Multi-Mind Brain-Computer Interfaces
+  authors: Davide Valeriani, Ana Matran-Fernandez
+  journal: "Brain-Computer Interfaces Handbook: Technological and Theoretical Advances, C. Nam, A. Nijholt and F. Lotte, Eds. CRC Press."
+  time: 2017
+  doi:
+  pdf:
