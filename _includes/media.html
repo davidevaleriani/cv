@@ -1,0 +1,21 @@
+{% if site.data.media %}
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-rss"></i>Media</h2>
+
+{% for medium in site.data.media %}
+  <div class="item-condensed">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title right"><a href="{{ medium.link }}" target="blank">{{ medium.title }}</a></h3>
+        <div class="time-left">{{ medium.time }}</div>
+      </div><!--//upper-row-->
+      
+      <div class="company right">{{ medium.location }}</div>
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}
