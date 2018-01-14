@@ -62,3 +62,69 @@
   time: 2016
   doi: 
   pdf: http://www.davidevaleriani.it/pub/Salvo2016Chapter_BCIsOutOfTheLab.pdf
+ 
+- publication:
+  title: "Towards a Wearable Device for Controlling a Smartphone with Eye Winks"
+  authors: "<strong>Davide Valeriani</strong>, Ana Matran-Fernandez"
+  journal: "7th Computer Science and Electronic Engineering Conference (CEEC) - Colchester, UK. "
+  time: 2015
+  doi: 10.1109/CEEC.2015.7332697
+  pdf: http://www.davidevaleriani.it/pub/CEEC2015.pdf
+- publication:
+  title: "A Comparison of Ensemble Methods for Motor Imagery Brain-Computer Interfaces"
+  authors: "<strong>Davide Valeriani</strong>, Ana Matran-Fernandez, Diego Perez-Liebana, Javier Asensio-Cubero, Christian O'Connell, Andrei Iacob"
+  journal: "European Conference on Data Analysis (ECDA) - Colchester, UK."
+  time: 2015
+  doi: 
+  pdf: http://www.davidevaleriani.it/pub/ECDA2015.pdf
+- publication:
+  title: "A Collaborative Brain-Computer Interface to Improve Human Performance in a Visual Search Task"
+  authors: "<strong>Davide Valeriani</strong>, Riccardo Poli, Caterina Cinel"
+  journal: "7th International IEEE EMBS Neural Engineering Conference (NER) - Montpellier, France."
+  time: 2015
+  doi: 10.1109/NER.2015.7146599
+  pdf: http://www.davidevaleriani.it/pub/NER2015_1.pdf
+- publication:
+  title: "A Collaborative Brain-Computer Interface for Improving Group Detection of Visual Targets in Complex Natural Environments"
+  authors: "<strong>Davide Valeriani</strong>, Riccardo Poli, Caterina Cinel"
+  journal: "7th International IEEE EMBS Neural Engineering Conference (NER) - Montpellier, France."
+  time: 2015
+  doi: 10.1109/NER.2015.7146551
+  pdf: http://www.davidevaleriani.it/pub/NER2015_2.pdf
+
+- publication:
+  title: "Collaborative Brain-Computer Interface for Aiding Decision-making"
+  authors: "Riccardo Poli, <strong>Davide Valeriani</strong>, Caterina Cinel"
+  journal: "PLOS ONE"
+  time: 2014
+  doi: 10.1371/journal.pone.0102693
+  pdf: http://www.davidevaleriani.it/pub/PLOSONE2014.pdf
+- publication:
+  title: "Lessons learned in a Ball Fetch-And-Carry Robotic Competition"
+  authors: "Marco Cigolini, Alessandro Costalunga, Federico Parisi, Marco Patander, Isabella Salsi, Andrea Signifredi, <strong>Davide Valeriani</strong>, Dario Lodi Rizzini, Stefano Caselli"
+  journal: "Journal of Automation, Mobile Robotics & Intelligent Systems 8(1)."
+  time: 2014
+  doi: 10.14313/JAMRIS_1-2014/11
+  pdf: http://www.davidevaleriani.it/pub/JAMRIS2014.pdf
+
+- publication:
+  title: "A Viewpoint Planning and Navigation Algorithm for Mobile Robots using Depth Images"
+  authors: "<strong>Davide Valeriani</strong>, Dario Lodi Rizzini, Fabio Oleari, Stefano Caselli"
+  journal: "Australasian Conference on Robotics and Automation (ACRA) - Sydney, Australia."
+  time: 2013
+  doi: 
+  pdf: http://www.davidevaleriani.it/pub/ACRA2013.pdf
+- publication:
+  title: " Segmentation of Histological Images using a Metaheuristic-based Level Set Approach"
+  authors: "Pablo Mesejo-Santiago, Stefano Cagnoni, Alessandro Costalunga, <strong>Davide Valeriani</strong>"
+  journal: "15th Annual Conference Companion on Genetic and Evolutionary Computation (GECCO) - Amsterdam, Netherlands."
+  time: 2013
+  doi: 10.1145/2464576.2466808
+  pdf: http://www.davidevaleriani.it/pub/GECCO2013.pdf
+- publication:
+  title: "Lessons learned in a Ball Fetch-And-Carry Robotic Competition"
+  authors: "Marco Cigolini, Alessandro Costalunga, Federico Parisi, Marco Patander, Isabella Salsi, Andrea Signifredi, <strong>Davide Valeriani</strong>, Dario Lodi Rizzini, Stefano Caselli"
+  journal: "4th International Conference on Robotics in Education (RIE) - Lodz, Poland."
+  time: 2013
+  doi: 
+  pdf: http://www.davidevaleriani.it/pub/RiE2013.pdf
