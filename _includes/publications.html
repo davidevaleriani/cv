@@ -6,7 +6,11 @@
   <div class="item">
     <div class="meta">
       <div class="upper-row">
-        <h3 class="job-title-right">{{ pub.title }}</h3>
+        {% if pub.doi %}
+        <h3 class="job-title right"><a href="http://dx.doi.org/{{ pub.doi }}" target="blank">{{ pub.title }}</a></h3>
+        {% else %}
+        <h3 class="job-title right">{{ pub.title }}</h3>
+        {% endif %}
         <div class="time-left">{{ pub.time }}</div>
       </div><!--//upper-row-->
 
@@ -14,15 +18,10 @@
 
     </div><!--//meta-->
 
-    {% if pub.doi or pub.pdf %}
+    {% if pub.pdf %}
     <div class="right">
       <p>
-      {% if pub.doi %}
-      <strong><a href="http://dx.doi.org/{{ pub.doi }}">Online</a><strong>&nbsp;
-      {% endif %}
-      {% if pub.pdf %}
       <strong><a href="{{ pub.pdf }}">PDF</a></strong>
-      {% endif %}
       </p>
     </div>
     {% endif %}
