@@ -6,6 +6,7 @@
   <div class="item">
     <div class="meta">
       <div class="upper-row">
+        <div class="company right-condensed">{{ pub.authors }}</div>
         {% if pub.doi %}
         <h3 class="job-title right-condensed"><a href="http://dx.doi.org/{{ pub.doi }}" target="blank">{{ pub.title }}</a></h3>
         {% else %}
@@ -13,7 +14,7 @@
         {% endif %}
         <div class="time-left">{{ pub.time }}
         {% if pub.pdf %}
-        <br><a href="{{ pub.pdf }}"><i class="fa fa-ownload"></i></a>
+        <br><a href="{{ pub.pdf }}"><i class="fa fa-download"></i></a>
         {% endif %}
         </div>
       </div><!--//upper-row-->
