@@ -1,4 +1,12 @@
 - publication:
+  title: Past and Future of Multi-Mind Brain-Computer Interfaces
+  authors: "<strong>Davide Valeriani</strong>, Ana Matran-Fernandez"
+  journal: "Brain-Computer Interfaces Handbook: Technological and Theoretical Advances, C. Nam, A. Nijholt and F. Lotte, Eds. CRC Press."
+  time: 2018
+  doi:
+  pdf: https://www.davidevaleriani.it/pub/PastAndFutureOfMultimindBCIs.pdf
+
+- publication:
   title: Group Augmentation in Realistic Visual-Search Decisions via a Hybrid Brain-Computer Interface
   authors: "<strong>Davide Valeriani</strong>, Caterina Cinel, Riccardo Poli"
   journal: "Scientific Reports 7(7772): 1-12."
@@ -26,13 +34,6 @@
   time: 2017
   doi:
   pdf:
-- publication:
-  title: Past and Future of Multi-Mind Brain-Computer Interfaces
-  authors: "<strong>Davide Valeriani</strong>, Ana Matran-Fernandez"
-  journal: "Brain-Computer Interfaces Handbook: Technological and Theoretical Advances, C. Nam, A. Nijholt and F. Lotte, Eds. CRC Press."
-  time: 2017
-  doi:
-  pdf: https://www.davidevaleriani.it/pub/PastAndFutureOfMultimindBCIs.pdf
 
 - publication:
   title: Enhancement of Group Perception via a Collaborative Brain-Computer Interface
