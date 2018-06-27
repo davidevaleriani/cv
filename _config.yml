@@ -13,11 +13,10 @@ style: styles-3
 #Profile information
 name: Davide Valeriani
 tagline: Postdoctoral Researcher
-pic: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Computer engineer with a PhD in Brain-Computer Interfaces, 
-working on machine learning applied to neuroscience to augment human decision-making.
-Postdoctoral researcher at the University of Essex (UK) with experience in teaching, 
-machine-learning consultancy in industry, and co-founder of EyeWink Ltd.'
+pic: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Postdoctoral researcher at the University of Essex (UK), working on Brain-Computer Interfaces (BCIs),
+decision making, machine learning, and computational neuroscience. Undergraduate and master degree in computer engineering.
+Experience in teaching, machine-learning consultancy in industry, and entrepreneurship. Co-founder of EyeWink Ltd.'
 
 #sidebar links
 email: me@davidevaleriani.it
