@@ -12,10 +12,11 @@ style: styles-3
 
 #Profile information
 name: Davide Valeriani
-tagline: Postdoctoral Researcher
+tagline: Research Fellow
 pic: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Postdoctoral researcher at the University of Essex (UK), working on Brain-Computer Interfaces (BCIs),
-decision making, machine learning, and computational neuroscience. Undergraduate and master degree in computer engineering.
+summary: 'Postdoctoral researcher in the Simonyan Lab at Massachusetts Eye and Ear Infirmary (Harvard Medical School), working on multimodal brain imaging, 
+Brain-Computer Interfaces (BCIs), decision making, machine learning, and computational neuroscience. Undergraduate and master degree in computer engineering,
+PhD in collaborative Brain-Computer Interfaces.
 Experience in teaching, machine-learning consultancy in industry, and entrepreneurship. Co-founder of EyeWink Ltd.'
 
 #sidebar links
