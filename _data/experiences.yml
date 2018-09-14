@@ -1,14 +1,24 @@
 - experience:
-  role: Senior Research Officer
-  time: Feb 2017 - Present
-  company: School of Computer Science and Electronic Engineering - University of Essex
-  details: 'Postdoctoral researcher working in the MURI project 
-  "Closed-Loop Multisensory Brain-Computer Interface for Enhanced Decision Accuracy".'
+  role: Research Fellow
+  time: Sep 2018 - Present
+  company: Simonyan Lab - Massachusetts Eye and Ear Infirmary - Harvard Medical School
+  details: 'Postdoctoral researcher working on deep learning and other machine-learning techniques applied to brain imaging data (EEG and fMRI) of (1) patients affected by speech disorders and (2) healthy users during decision-making tasks.'
 - experience:
   role: Director
   time: Dec 2015 - Present
   company: EyeWink Ltd.
   details: Co-founder of a company aiming at developing a wearable device that allows people to control external devices with eye winks.
+- experience:
+  role: Senior Research Officer
+  time: Feb 2017 - Jul 2018
+  company: School of Computer Science and Electronic Engineering - University of Essex
+  details: 'Postdoctoral researcher working in the MURI project 
+  "Closed-Loop Multisensory Brain-Computer Interface for Enhanced Decision Accuracy".'
+- experience:
+  role: Visiting Researcher
+  time: May 2018 - June 2018
+  company: Neural Systems Engineering & Information Processing Lab - University of Southern California
+  details: 'Training researchers on conducting EEG experiments with 256 electrodes on realistic decision-making tasks.'
 - experience:
   role: Research Consultant
   time: Nov 2016 - Dec 2016
